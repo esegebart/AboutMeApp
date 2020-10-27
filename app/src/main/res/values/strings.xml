@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">AboutMeApp</string>
+    <string name="name">Elyse Segebart</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Elyse.
+    \n\nI just finished my Bachelor of Science in Information Technology specializing
+        in software development with and emphasis on mobile.
+        \n\nI am currently learning Kotlin and will be an Android Developer next fall. I am taking the Udacity Kotlin nanodegree.
+        \n\nI love animals, miniature things, and lifting weights.
+        \n\nI want to work for a company that makes a difference in the world and work on something
+        I am passionate about.
+        \n\nIf you know of any Android Developer jobs, let me know! \n\n
+    </string>
 </resources>
