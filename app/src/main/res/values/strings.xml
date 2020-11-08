@@ -11,4 +11,6 @@
         I am passionate about.
         \n\nIf you know of any Android Developer jobs, let me know! \n\n
     </string>
+    <string name="what_is_your_nickname">What is your nickname</string>
+    <string name="done">done</string>
 </resources>
